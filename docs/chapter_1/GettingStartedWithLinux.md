@@ -171,6 +171,23 @@ logged in into your machine, run the following command:
 ```shell
 🔥➜  ~ ip a
 ```
+**output**
+
+```shell
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: ens33: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:0c:29:f4:99:82 brd ff:ff:ff:ff:ff:ff
+    altname enp2s1
+    inet 192.168.163.131/24 metric 100 brd 192.168.163.255 scope global dynamic ens33
+       valid_lft 1761sec preferred_lft 1761sec
+    inet6 fe80::20c:29ff:fef4:9982/64 scope link 
+       valid_lft forever preferred_lft forever
+```
 #### 1.4.1 Accessing via SSH 🦁
 
 
