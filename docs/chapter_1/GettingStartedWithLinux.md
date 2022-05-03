@@ -10,7 +10,7 @@
     - [1.4.1 Installing the Linux System ⚡](#141-installing-the-linux-system-)
     - [1.4.1 Installing Your Linux System 🔥](#141-installing-your-linux-system-)
     - [1.4.1 Accessing via SSH 🦁](#141-accessing-via-ssh-)
-  - [1.4 Conclusion 🦄](#14-conclusion-)
+  - [1.5 Conclusion 🦄](#15-conclusion-)
 
 ## 1. Getting Started With Linux 🐧
 
@@ -96,4 +96,4 @@ to explain further:
 
 #### 1.4.1 Accessing via SSH 🦁
 
-### 1.4 Conclusion 🦄
+### 1.5 Conclusion 🦄
