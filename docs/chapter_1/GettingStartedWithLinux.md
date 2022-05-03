@@ -166,7 +166,11 @@ follow the instructions on the [`VirtualBox` website](https://www.virtualbox.org
 
 #### 1.4.1 Installing Your Linux System 🔥
 install ubuntu server
-
+after the installation
+logged in into your machine, run the following command:
+```shell
+🔥-> ip a
+```
 #### 1.4.1 Accessing via SSH 🦁
 
 
