@@ -67,20 +67,54 @@ This explains the term `GNU/Linux`.
 #### 1.3.1 Distributions 🐼
 
 Since Linux is open-source, a lot of people and companies created their own
-versions of Linux, which are called distributions. Everyone who has the
+versions of Linux, which are called `distributions`. Everyone who has the
 knowledge in computer programming can make their own Linux distribution.
-One example is Kurumin Linux, created by a Brazilian programmer, Carlos
-Morimoto, and can be found on the link, https://distrowatch.com/table.php?distribution=kurumin. Unfortunately, it is discontinued, because maintaining
-your own distribution is not an easy task. You have to be concerned about
-updates, new releases, new software, bug correction, and infinite things that are
-basically impossible for just one person to take all that effort and without beingpaid for it. So, it is one important topic for you to decide what distribution you
-are planning to install in your infrastructure. Imagine the situation where you
-began with one distribution. A year later, it is discontinued and you have to
-reinstall your whole infrastructure with more than 300 servers. We, as
+One example is  Kurumin Linux , created by a Brazilian programmer, Carlos
+`Morimoto`, and can be found on the link, https://distrowatch.com/table.php?distribution=kurumin. Unfortunately, it is discontinued, because maintaining
+your `own distribution` is not an `easy task`. You have to be concerned about
+`updates`, `new releases`, `new software`, `bug correction`, and `infinite` things that are
+basically `impossible` for just one person to take all that effort and without being paid for it. So, it is one important topic for you to decide what distribution you
+are planning to install in your `infrastructure`. Imagine the situation where you
+began with one `distribution`. A year later, it is `discontinued` and you have to
+`reinstall` your whole infrastructure with more than 300 servers. We, as
 professionals, cannot let this happen.
-Regarding the distribution we want to choose for our infrastructure, there exists
+Regarding the `distribution` we want to choose for our infrastructure, there exists
 several of them, but some are the mostly used, because of the reasons I am going
 to explain further:
+
+- **RedHat Enterprise Linux** 🎩: This is the `most famous` and `corporative`
+distribution because of the `RedHat Company`. It is one of the most `famous`
+companies in the `Linux world`. It has amazing support, frequent updates,
+and 100% compatibility with the `RedHat software`, like `JBoss`, `OpenStack`,
+`RedHat Enterprise Virtualization Manager`, and a lot of more options. But,
+for using `RHEL`, it is required to take a `subscription` with the company and
+pay for it. Otherwise, you will `neither receive any updates`, nor will you be
+able to `access to the repository`.
+
+- **Community Enterprise Operating System**: `CentOS` is the community
+version of `RHEL`. It is the most common distribution among the companies
+that have chosen to not use the paid version and want to use the `community`
+version of the `RedHat software`.
+- **SUSE**: It is the Novell (`Microsoft`) distribution and is a good option,
+because, Microsoft is one of the biggest companies around the world.
+Therefore, the probability of it being `discontinued` is `zero`, and you will
+always have the `updates` and `new software` published by the company. It
+also has a community version called the `OpenSUSE` which follows the
+same features of the `CentOS`.
+- **Debian**: This is the option for those who are more involved in the
+community and do not want to be bound to any company, like the `distros`
+mentioned previously. Debian is `100%` maintained by the `community` and
+is one of the `oldest` distros we have. Also running over a lot of servers, it is
+very `stable` and `reliable`, and is frequently used by the companies and
+common users.
+- **Ubuntu**: This distro was made in `Africa` by Canonical that used to
+distribute CDs over the whole world for people to get to know more about
+Linux and run it on their desktops. The final users were the target by
+Canonical in the beginning. So, I believe that for desktops, Ubuntu is the
+`most` `used` `distro`, and for `servers`, it is `CentOS`. Ubuntu has a version for server which is my favorite distribution. That's why I am writing this book
+using Ubuntu. But the knowledge you will acquire here can be used for all
+the distributions.
+
 
 #### 1.3.2 Servers 🐳
 
