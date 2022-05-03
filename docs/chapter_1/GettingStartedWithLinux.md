@@ -14,7 +14,19 @@
 ## 1. Getting Started With Linux
 This chapter will introduce you to the `Linux` world with a focus on `servers`. Therefore, I will not explain about it on `desktops`. You will see explanations about Linux, why you `should` know `it`, its basic concepts, and a lot of `commands`. I am a technical guy, so brace yourself because you are about to see how to set up your `lab` hands-on!
 ### 1.1 Structure
-
+- In this chapter, we will discuss the following topics:
+- What is Linux
+- Distributions 
+- Servers
+- Setting up your environment
+- Installing the VirtualBox
+- Installing a Linux system
+- Accessing via SSH
+- Introduction to Bash
+- Useful commands
+- Basic files and how to edit them
+- Customizing your shell
+- Installing packages
 ### 1.2 Objectives
 ### 1.3 What is Linux?
 #### 1.3.1 Distributions
