@@ -169,7 +169,7 @@ install ubuntu server
 after the installation
 logged in into your machine, run the following command:
 ```shell
-🔥-> ip a
+🔥➜  ~ ip a
 ```
 #### 1.4.1 Accessing via SSH 🦁
 
