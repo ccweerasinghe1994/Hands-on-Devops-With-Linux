@@ -171,6 +171,9 @@ logged in into your machine, run the following command:
 ```shell
 🔥➜  ~ ip a
 ```
+The preceding command will show all the `network` `interfaces` you have and their
+`IP address`, like the following:
+
 **output**
 
 ```shell
