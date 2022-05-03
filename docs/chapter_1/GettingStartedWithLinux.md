@@ -7,7 +7,7 @@
     - [1.3.3 Conclusion 🪲](#133-conclusion-)
   - [1.4 Setting up your environment 🐞](#14-setting-up-your-environment-)
     - [1.4.1 Installing the VirtualBox 🕷️](#141-installing-the-virtualbox-️)
-    - [1.4.1 Installing the Linux System ⚡](#141-installing-the-linux-system-)
+    - [1.4 Installing the Linux System ⚡](#14-installing-the-linux-system-)
     - [1.4.1 Installing Your Linux System 🔥](#141-installing-your-linux-system-)
     - [1.4.1 Accessing via SSH 🦁](#141-accessing-via-ssh-)
   - [1.5 Conclusion 🦄](#15-conclusion-)
@@ -152,17 +152,22 @@ we do not need to take care of the `maintenance`, like `switching` `disks` when 
 `fail`, switching the server when they are `deprecated`, or even the `electricity` and
 the `internet`. Furthermore, you can save costs by turning them `off` after the
 `business` day and starting them again the `next` day. All these providers only
-`charge` you for the time `that` the machine is `turned` `on`. Otherwise, you are going
+`charge` you for the time `that` the machine is `turned` `on`. Otherwise, you are going to `pay` only for the `storage`.
 #### 1.3.3 Conclusion 🪲
-
+Now that we already have a brief explanation regarding the `servers`, `virtual`
+`machines`, `Linux`, and `distributions`, we are ready to start the hands-on. Let's
+begin by setting up our first `Linux` `environment` and get to know the basics, and
+so much more.
 ### 1.4 Setting up your environment 🐞
-
+install preferred `distribution`.in virtual box or vmware
 #### 1.4.1 Installing the VirtualBox 🕷️
-
-#### 1.4.1 Installing the Linux System ⚡
+follow the instructions on the [`VirtualBox` website](https://www.virtualbox.org/wiki/Downloads)
+#### 1.4 Installing the Linux System ⚡
 
 #### 1.4.1 Installing Your Linux System 🔥
+install ubuntu server
 
 #### 1.4.1 Accessing via SSH 🦁
+
 
 ### 1.5 Conclusion 🦄
