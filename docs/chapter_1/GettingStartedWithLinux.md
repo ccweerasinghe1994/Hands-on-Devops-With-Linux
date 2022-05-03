@@ -91,23 +91,23 @@ for using `RHEL`, it is required to take a `subscription` with the company and
 pay for it. Otherwise, you will `neither receive any updates`, nor will you be
 able to `access to the repository`.
 
-- **Community Enterprise Operating System**: `CentOS` is the community
+- **Community Enterprise Operating System**🧨: `CentOS` is the community
 version of `RHEL`. It is the most common distribution among the companies
 that have chosen to not use the paid version and want to use the `community`
 version of the `RedHat software`.
-- **SUSE**: It is the Novell (`Microsoft`) distribution and is a good option,
+- **SUSE**🎈: It is the Novell (`Microsoft`) distribution and is a good option,
 because, Microsoft is one of the biggest companies around the world.
 Therefore, the probability of it being `discontinued` is `zero`, and you will
 always have the `updates` and `new software` published by the company. It
 also has a community version called the `OpenSUSE` which follows the
 same features of the `CentOS`.
-- **Debian**: This is the option for those who are more involved in the
+- **Debian**🕹️: This is the option for those who are more involved in the
 community and do not want to be bound to any company, like the `distros`
 mentioned previously. Debian is `100%` maintained by the `community` and
 is one of the `oldest` distros we have. Also running over a lot of servers, it is
 very `stable` and `reliable`, and is frequently used by the companies and
 common users.
-- **Ubuntu**: This distro was made in `Africa` by Canonical that used to
+- **Ubuntu**🧸: This distro was made in `Africa` by Canonical that used to
 distribute CDs over the whole world for people to get to know more about
 Linux and run it on their desktops. The final users were the target by
 Canonical in the beginning. So, I believe that for desktops, Ubuntu is the
