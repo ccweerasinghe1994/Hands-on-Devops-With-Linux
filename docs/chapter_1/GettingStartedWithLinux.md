@@ -12,7 +12,9 @@
     - [1.4.1 Accessing via SSH](#141-accessing-via-ssh)
   - [1.4 Conclusion](#14-conclusion)
 ## 1. Getting Started With Linux
+This chapter will introduce you to the `Linux` world with a focus on `servers`. Therefore, I will not explain about it on `desktops`. You will see explanations about Linux, why you `should` know `it`, its basic concepts, and a lot of `commands`. I am a technical guy, so brace yourself because you are about to see how to set up your `lab` hands-on!
 ### 1.1 Structure
+
 ### 1.2 Objectives
 ### 1.3 What is Linux?
 #### 1.3.1 Distributions
