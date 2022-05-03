@@ -28,6 +28,11 @@ This chapter will introduce you to the `Linux` world with a focus on `servers`. 
 - Customizing your shell
 - Installing packages
 ### 1.2 Objectives
+- After studying this unit, you should be able to:   
+- Understand the basics of Linux
+- Choose your favorite distribution
+- Install your virtual machine
+- Access any remote Linux server
 ### 1.3 What is Linux?
 #### 1.3.1 Distributions
 #### 1.3.2 Servers
