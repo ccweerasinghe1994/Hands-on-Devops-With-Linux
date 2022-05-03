@@ -117,7 +117,38 @@ the distributions.
 
 
 #### 1.3.2 Servers 🐳
-
+`Servers` are nothing more than `computers`. They are usually more `powerful` than
+`PCs`, which are created and installed to attend to a purpose. For example, we can
+install a Linux server for acting, like `web server`. In other words, to run a `website`
+on it, like `Facebook`, `Amazon`, or `Google`. It can also act like a `database` `server`
+where we can install a `PostgreSQL`, `SQL` Server, `MySQL`, `Oracle`, or another
+that can be `file server` where the company stores all the `data` inside it, and in
+many cases, all of it together. One example of it is what we call the `LAMP`,
+`Linux` `Apache` `MySQL` `PHP`. Usually, we call a server `LAMP` when we have a
+`Linux system` (a webserver, in that case), `Apache`, a `database` server (`MySQL`),
+and a `programming` `language` interpreter, in this case, `PHP`. We can also call this
+a `stack`. Stack means a set of tools that you can use to solve a problem. One of
+my favorite stacks is `NPM`, `Nginx`, `Python`, and `MongoDB`. I have been using it
+to solve many issues in the company that I work. This stack can be installed in a
+server, which can be `virtual` or `physical`, and we will do that in the next chapters.
+`On-premise` is a term often used for server installed within the infrastructure of
+our companies, many-a-times, in a `datacenter`, and sometimes, under the system
+admin desk. The `VMs` can also run in an `on-premise` infrastructure when we use
+tools like `OpenStack` or `oVirt` to create them `on` the `top` of `physical` `servers`. It is a
+`strategy` adopted by the companies towards having more `resilience`, `flexibility`,
+and `better` use of our `resources`. One example is if you have to `switch` one or
+more `servers` in your `datacenter`, for the fact that it is very `old` and is not able to
+have the same `performance` as the `other` `servers`, you can `migrate` the `VMs` from
+`one` `server` to `another`. `Switch` the `physical` machine and after `installing` a `new`
+`one`, `migrate` all the `VMs` `back`.
+`Cloud` is the name used to describe when the virtual servers are installed inside
+the infrastructure of something else. In most cases, the companies like `AWS`,
+`Azure`, and `GCP` have their own `on-premise` `infrastructure` and `rent` it for us. So,
+we do not need to take care of the `maintenance`, like `switching` `disks` when they
+`fail`, switching the server when they are `deprecated`, or even the `electricity` and
+the `internet`. Furthermore, you can save costs by turning them `off` after the
+`business` day and starting them again the `next` day. All these providers only
+`charge` you for the time `that` the machine is `turned` `on`. Otherwise, you are going
 #### 1.3.3 Conclusion 🪲
 
 ### 1.4 Setting up your environment 🐞
