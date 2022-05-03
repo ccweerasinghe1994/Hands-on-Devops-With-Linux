@@ -131,6 +131,8 @@ a `stack`. Stack means a set of tools that you can use to solve a problem. One o
 my favorite stacks is `NPM`, `Nginx`, `Python`, and `MongoDB`. I have been using it
 to solve many issues in the company that I work. This stack can be installed in a
 server, which can be `virtual` or `physical`, and we will do that in the next chapters.
+
+
 `On-premise` is a term often used for server installed within the infrastructure of
 our companies, many-a-times, in a `datacenter`, and sometimes, under the system
 admin desk. The `VMs` can also run in an `on-premise` infrastructure when we use
@@ -141,6 +143,8 @@ more `servers` in your `datacenter`, for the fact that it is very `old` and is n
 have the same `performance` as the `other` `servers`, you can `migrate` the `VMs` from
 `one` `server` to `another`. `Switch` the `physical` machine and after `installing` a `new`
 `one`, `migrate` all the `VMs` `back`.
+
+
 `Cloud` is the name used to describe when the virtual servers are installed inside
 the infrastructure of something else. In most cases, the companies like `AWS`,
 `Azure`, and `GCP` have their own `on-premise` `infrastructure` and `rent` it for us. So,
